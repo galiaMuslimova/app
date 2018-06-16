@@ -1,0 +1,13 @@
+.Select {
+    display: inline-block;
+}
+.selectData {
+    height: 50px;
+}
+p {
+    margin-bottom: 0px;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 9pt;
+    color: #bdbdbd;  
+  }

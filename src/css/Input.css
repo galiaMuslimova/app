@@ -1,0 +1,26 @@
+.Input {
+    display: inline-block;
+    
+}
+.inputData {
+    height: 50px;
+    border-radius: 10px;
+}
+p {
+    margin-bottom: 0px;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 9pt;
+    color: #bdbdbd;  
+  }
+  .absolutePosition {
+      position: absolute;
+      background-color: gray;
+      
+  }
+  #showLoading {
+      display: none;
+  }
+  .nav {
+      display: inline-block;
+  }

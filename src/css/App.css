@@ -1,0 +1,21 @@
+.App {
+  background-color: #f2f2f2;
+  font-family: url('../fonts/OpenSans-Regular.ttf');
+}
+
+.App-main {
+  width: 960px;
+  background-color: white;
+  height: 604px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container {
+  padding: 20px;
+}
+
+
+
+
+
+
